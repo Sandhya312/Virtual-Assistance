@@ -9,7 +9,7 @@ I have used **eSpeak** in my project which is a compact open source software spe
 > User id - SANDHYA  
 > Password - SANDHYA
 
-### VideoS link
+### Video link
 
 > https://www.loom.com/share/d03b20e6091d45a7b24a32ac776ac0bf
 

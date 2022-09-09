@@ -14,7 +14,7 @@ void assist(string s)
 	system(charCommand);
 }
 
-// wishing function//////////////////////////////////////////////////////////
+// wishing function
 void Wish()
 {
 	time_t now = time(0);

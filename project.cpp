@@ -48,7 +48,7 @@ void Wish()
 	}
 }
 
-// date and time ///////////////////////////////////////////////////////
+// date and time
 void date()
 {
 	time_t now = time(0);
@@ -58,7 +58,7 @@ void date()
 	string s = "THE DATE AND TIME IS ...";
 	assist(s);
 }
-////////////////////////calculation///////////////////////////
+////////////////////////calculation
 void calc()
 {
 	float n1, n2;
